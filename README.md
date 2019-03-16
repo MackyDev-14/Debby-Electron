@@ -1,4 +1,4 @@
-# veed
+# Debby-Electron-Vue
 
 ## Project setup
 ```
